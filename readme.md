@@ -7,14 +7,13 @@ Each meeting will run an hour in length. The first half is a beginner-level pres
 
 ## Join in
 
-**When:** 6 pm, the second Thursday of each month, September-December   
-**Where:** Mapshop @ Miller Hall    
-**Who:** anyone who wants to make maps
+- **When:** 6 pm, the second Thursday of each month, September-December
+- **Where:** Mapshop @ Miller Hall (basement | [map](https://maptimelex.github.io/location)) 
+- **Who:** anyone who wants to make maps
 
 Before each meeting, we'll share our presentation on our various social media platforms. To get the most out of the meeting, bring a laptop with our suggested software installed. 
 
 ## Tentative schedule
-
 
 **Maximizing Spatial Oomph: unleashing the raw power of monochromatic maps**   
 September 12   

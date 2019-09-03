@@ -17,7 +17,7 @@ Before each meeting, we'll share our presentation on our various social media pl
 
 **Maximizing Spatial Oomph: unleashing the raw power of monochromatic maps**   
 September 12   
-We'll show how to make deceptively simple maps in QGIS. Now your large-scale maps can always have a decent locator inset map.
+We'll show how to make deceptively simple maps in QGIS. Now your large-scale maps can always have a decent locator inset map. Examples from Daniel P. Huffman's competition [Monocarto 2019](https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/).
 
  
 **Are you in a toxic relationship with your computer? Use Conda to keep it sane**   

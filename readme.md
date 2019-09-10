@@ -16,7 +16,7 @@ Before each meeting, we'll share our presentation on our various social media pl
 ## Tentative schedule
 
 **Maximizing Spatial Oomph: unleashing the raw power of monochromatic maps**   
-September 12   
+September 12 | [Tutorial](https://github.com/maptimelex/monochromatic-maps)   
 We'll show how to make deceptively simple maps in QGIS. Now your large-scale maps can always have a decent locator inset map. Examples from Daniel P. Huffman's competition [Monocarto 2019](https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/).
 
  

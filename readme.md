@@ -19,10 +19,14 @@ Before each meeting, we'll share our presentation on our various social media pl
 September 12 | [Tutorial](https://github.com/maptimelex/monochromatic-maps)   
 We'll show how to make deceptively simple maps in QGIS. Now your large-scale maps can always have a decent locator inset map. Examples from Daniel P. Huffman's competition [Monocarto 2019](https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/).
 
- 
-**Are you in a toxic relationship with your computer? Use Conda to keep it sane**   
+
+**Regex to the rescue: repairing improperly encoded FIPS codes**   
 October 10  
-The Conda utility manages packages for a variety of programming languages. We'll learn how to install and set up a few different mapping environments.
+Recent social media posts have shared startling misleading maps. What if you wanted to respond, but your source data was flawed?
+ 
+<!-- **Are you in a toxic relationship with your computer? Use Conda to keep it sane**   
+October 10  
+The Conda utility manages packages for a variety of programming languages. We'll learn how to install and set up a few different mapping environments. -->
 
 
 **Wildcat eyes: harnessing remote sensing data in Kentucky**   

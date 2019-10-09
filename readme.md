@@ -21,7 +21,7 @@ We'll show how to make deceptively simple maps in QGIS. Now your large-scale map
 
 
 **Regex to the rescue: repairing improperly encoded FIPS codes**   
-October 10  | [Tutorial](https://github.com/maptimelex/regex-to-the-rescue)
+October 10  | [Tutorial](https://github.com/maptimelex/regex-to-the-rescue)    
 Recent social media posts have shared astonishingly misleading maps. What if you wanted to respond, but your source data was flawed?
  
 <!-- **Are you in a toxic relationship with your computer? Use Conda to keep it sane**   

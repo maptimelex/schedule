@@ -30,7 +30,7 @@ The Conda utility manages packages for a variety of programming languages. We'll
 
 
 **Wildcat eyes: harnessing remote sensing data in Kentucky**   
-November 14   
+November 14  | [Tutorial](https://github.com/maptimelex/wildcat-eyes)   
 Kentucky offers many remote sensing products. We'll explore ways of harvesting imagery for use in custom projects.
 
 

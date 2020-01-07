@@ -13,7 +13,9 @@ Each meeting will run an hour in length. The first half is a beginner-level pres
 
 Before each meeting, we'll share our presentation on our various social media platforms. To get the most out of the meeting, bring a laptop with our suggested software installed. 
 
-## Tentative schedule
+## Schedule
+
+### 2019
 
 **Maximizing Spatial Oomph: unleashing the raw power of monochromatic maps**   
 September 12, 2019 | [Tutorial](https://github.com/maptimelex/monochromatic-maps)   
@@ -36,8 +38,10 @@ Kentucky offers many remote sensing products. We'll explore ways of harvesting i
 
 **Mapbox Studio does that? Yep!**   
 December 12 | [Tutorial](https://github.com/maptimelex/mapbox-does-that) 
-Let's fire up our browsers and explore how to symbolize 3D features in Mapbox.
+Let's fire up our browsers and play with Mapbox Studio (and other stuff).
+
+### 2020
 
 **Mapping the new year**   
-January 9, 2020   
+January 9  
 Provide your 2020 insight and help us plan the new year of maptimeLex events. All welecome!

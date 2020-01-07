@@ -1,7 +1,7 @@
-# maptimeLEX fall 2019 schedule
+# maptimeLEX Schedule
 rebooting maptimeLEX with new schedule
 
-Starting in September, the Department of Geography will host monthly maptimeLEX meetings on campus. The public is invited and all mapping skill levels are welcome. 
+Starting in September 2019, the Department of Geography will host monthly maptimeLEX meetings on campus. The public is invited and all mapping skill levels are welcome. 
 
 Each meeting will run an hour in length. The first half is a beginner-level presentation to solve simple mapping challenges. The second half is open to discussing other mapping issues. If demand exists, other presentations can be made at this time. Just let us know to schedule your presentation!
 
@@ -16,7 +16,7 @@ Before each meeting, we'll share our presentation on our various social media pl
 ## Tentative schedule
 
 **Maximizing Spatial Oomph: unleashing the raw power of monochromatic maps**   
-September 12 | [Tutorial](https://github.com/maptimelex/monochromatic-maps)   
+September 12, 2019 | [Tutorial](https://github.com/maptimelex/monochromatic-maps)   
 We'll show how to make deceptively simple maps in QGIS. Now your large-scale maps can always have a decent locator inset map. Examples from Daniel P. Huffman's competition [Monocarto 2019](https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/).
 
 
@@ -35,5 +35,9 @@ Kentucky offers many remote sensing products. We'll explore ways of harvesting i
 
 
 **Mapbox Studio does that? Yep!**   
-December 12   
+December 12 | [Tutorial](https://github.com/maptimelex/mapbox-does-that) 
 Let's fire up our browsers and explore how to symbolize 3D features in Mapbox.
+
+**Mapping the new year**   
+January 9, 2020   
+Provide your 2020 insight and help us plan the new year of maptimeLex events. All welecome!

@@ -45,3 +45,7 @@ Let's fire up our browsers and play with Mapbox Studio (and other stuff).
 **Mapping the new year**   
 January 9  
 Provide your 2020 insight and help us plan the new year of maptimeLex events. All welecome!
+
+**Valentine Suprise**   
+February 13  
+Discover the most lovable places in America

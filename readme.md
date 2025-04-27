@@ -1,9 +1,9 @@
 # maptimeLEX Schedule
-rebooting maptimeLEX with new schedule
+Rebooting maptimeLEX with new schedule
 
 Starting in September 2019, the Department of Geography will host monthly maptimeLEX meetings on campus. The public is invited and all mapping skill levels are welcome. 
 
-Each meeting will run an hour in length. The first half is a beginner-level presentation to solve simple mapping challenges. The second half is open to discussing other mapping issues. If demand exists, other presentations can be made at this time. Just let us know to schedule your presentation!
+Each meeting will run for an hour. The first half is a beginner-level presentation to solve simple mapping challenges. The second half is open to discussing other mapping issues. If demand exists, other presentations can be scheduled. Just let us know to plan your presentation!
 
 ## Join in
 
@@ -46,6 +46,6 @@ Let's fire up our browsers and play with Mapbox Studio (and other stuff).
 January 9  
 Provide your 2020 insight and help us plan the new year of maptimeLex events. All welecome!
 
-**Valentine Suprise**   
-February 13  
-Discover the most lovable places in America
+**Valentine Surprise**   
+February 13 | [Tutorial](https://github.com/maptimelex/nearest-love)
+Discover the most lovable places in America.
